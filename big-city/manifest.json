@@ -1,0 +1,22 @@
+{
+    "name":"big-city",
+    "short_name":"PWAxall",
+    "descripcion":"intento escolar",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#ffffff",
+    "theme_color":"#007BFF",
+    "icons":[
+        {
+            "src":"img/iconos/otro.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"img/iconos/otro.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ],
+    "id":"PWA"
+}
